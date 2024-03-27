@@ -2,7 +2,7 @@
 
 /**
  * is_full_recursive - Checks if a binary tree is full recursively.
- * @tree: This is a pointer to the root node of the tree to check.
+ * @tree: pointer to the root node of the tree to check.
  *
  * Return: If tree is not full, 0.
  *         Otherwise, 1.
